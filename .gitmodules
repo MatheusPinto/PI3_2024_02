@@ -1,0 +1,3 @@
+[submodule "grupo7/ifsc-pi3-eletronic-load"]
+	path = grupo7/ifsc-pi3-eletronic-load
+	url = https://github.com/JoaoMario109/ifsc-pi3-eletronic-load.git
