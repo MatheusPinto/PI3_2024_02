@@ -1,3 +1,24 @@
 [submodule "grupo7/ifsc-pi3-eletronic-load"]
 	path = grupo7/ifsc-pi3-eletronic-load
 	url = https://github.com/JoaoMario109/ifsc-pi3-eletronic-load.git
+[submodule "grupo1"]
+	path = grupo1
+	url = https://github.com/joananana/PI3-2024-2.git
+[submodule "grupo2"]
+	path = grupo2
+	url = https://github.com/tatimmtt/Projeto-Integrador-III.git
+[submodule "grupo4"]
+	path = grupo4
+	url = https://github.com/MatheusrCunha/projeto_integrador_III.git
+[submodule "grupo5"]
+	path = grupo5
+	url = https://github.com/EmmanuelRGuesser/PJ_Integrador_3.git
+[submodule "grupo6"]
+	path = grupo6
+	url = https://github.com/pedrohharenza/PI3_2024.2.git
+[submodule "grupo8"]
+	path = grupo8
+	url = https://github.com/Yuri-m-b/projeto-PI3
+[submodule "grupo9"]
+	path = grupo9
+	url = https://github.com/LauraMWerneck/Projeto_Integrador_3.git
