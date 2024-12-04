@@ -22,3 +22,6 @@
 [submodule "grupo9"]
 	path = grupo9
 	url = https://github.com/LauraMWerneck/Projeto_Integrador_3.git
+[submodule "grupo3"]
+	path = grupo3
+	url = https://github.com/Jaumm111/PI_K66_LAN.git
